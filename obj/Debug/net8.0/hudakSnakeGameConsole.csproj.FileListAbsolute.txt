@@ -1,0 +1,14 @@
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\bin\Debug\net8.0\hudakSnakeGameConsole.exe
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\bin\Debug\net8.0\hudakSnakeGameConsole.deps.json
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\bin\Debug\net8.0\hudakSnakeGameConsole.runtimeconfig.json
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\bin\Debug\net8.0\hudakSnakeGameConsole.dll
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\bin\Debug\net8.0\hudakSnakeGameConsole.pdb
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.AssemblyInfoInputs.cache
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.AssemblyInfo.cs
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.dll
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\refint\hudakSnakeGameConsole.dll
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.pdb
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\hudakSnakeGameConsole.genruntimeconfig.cache
+C:\Users\mhmic\source\repos\hudakSnakeGameConsole\hudakSnakeGameConsole\obj\Debug\net8.0\ref\hudakSnakeGameConsole.dll
