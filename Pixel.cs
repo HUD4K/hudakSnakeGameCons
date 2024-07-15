@@ -7,5 +7,6 @@ namespace Snake
         public int XPosition { get; set; }
         public int YPosition { get; set; }
         public ConsoleColor PixelColor { get; set; }
+        //a tu je druhy
     }
 }

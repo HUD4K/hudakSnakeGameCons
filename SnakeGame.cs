@@ -102,6 +102,7 @@ namespace Snake
             }
             for (int i = 0; i < _screenHeight; i++)
             {
+                //serus toto je iba testovaci komentar
                 Console.SetCursorPosition(0, i);
                 Console.Write("■");
                 Console.SetCursorPosition(_screenWidth - 1, i);
